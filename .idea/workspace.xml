@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26b689e6-a903-4b41-bdc8-4976040480ec" name="Default" comment="1024">
-      <change beforePath="$PROJECT_DIR$/test111111" beforeDir="false" />
-    </list>
+    <list default="true" id="26b689e6-a903-4b41-bdc8-4976040480ec" name="Default" comment="1024" />
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <ignored path="$PROJECT_DIR$/Chapter6/target/" />
     <ignored path="$PROJECT_DIR$/Chapter9/target/" />
@@ -62,8 +60,8 @@
       <file leaf-file-name="yinni.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter9/src/main/resources/yinni.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="90">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -211,7 +209,7 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="257" />
     <option name="y" value="166" />
     <option name="width" value="1413" />
@@ -225,9 +223,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -604,7 +602,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="2" />
@@ -612,28 +610,28 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.33901918" side_tool="true" visible="true" weight="0.25517994" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.33955225" side_tool="true" visible="true" weight="0.25517994" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.15938166" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.6609808" visible="true" weight="0.25517994" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.74413645" weight="0.34460196" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.6604478" visible="true" weight="0.25517994" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49963045" weight="0.40894902" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7408492" visible="true" weight="0.24307036" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.73938507" visible="true" weight="0.2457356" />
       <window_info id="Learn" order="5" />
-      <window_info id="Structure" order="1" sideWeight="0.2591508" side_tool="true" visible="true" weight="0.24307036" />
+      <window_info id="Structure" order="1" sideWeight="0.26061493" side_tool="true" visible="true" weight="0.2457356" />
       <window_info anchor="right" id="Ant Build" order="5" visible="true" weight="0.069296375" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.48827294" weight="0.36205018" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Messages" order="0" sideWeight="0.4424307" visible="true" weight="0.31624863" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49946696" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Messages" order="0" sideWeight="0.4424307" visible="true" weight="0.31624863" />
     </layout>
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -993,8 +991,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter9/src/main/resources/yinni.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
